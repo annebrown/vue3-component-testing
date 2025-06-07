@@ -8,8 +8,18 @@
         <p><b>StarterTest: </b></p><br/>
         <StarterTest /><br/>
 
-        <p><b>NaviSourceNaviTree: </b></p><br/>
-        <NaviSourceNaviTree sourcePrefix="/docs" />
+        <p><b>NaviSourceNaviTree: Docs</b></p><br/>
+        <NaviSourceNaviTree 
+            sourcePrefix="/docs"
+            :initialExpansionLevel="0"
+        />
+
+
+        <p><b>NaviSourceNaviTree: Second Source</b></p><br/>
+        <NaviSourceNaviTree 
+            sourcePrefix="/otherdocs"
+            :initialExpansionLevel="999"
+        />
 
         </div>
 </template>

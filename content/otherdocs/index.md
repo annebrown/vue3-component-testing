@@ -1,5 +1,5 @@
 ---
-title: Second Source
+title: Other Docs
 description: Second Test Collection Source
 navigation: false
 lastModified: 2025-02-08
@@ -7,6 +7,6 @@ lastModified: 2025-02-08
 
 ## Description
 
-File: `/content/seccond-src/index.md`
+File: `/content/otherdocs/index.md`
 
-Content from route `/second-src`
+Content from route `/otherdocs`
