@@ -24,7 +24,7 @@
                     {{ page.lastModified }}
                 </p> -->
             </div>
-
+</div>
         <hr class="mt-0 pt-0 px-8 border-solid" />
 
         <!-- Remaining Cargo -->
