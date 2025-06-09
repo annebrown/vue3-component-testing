@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@annebrown.ca/vue3-fleet-pub": "link:../../../../.local/share/pnpm/global/5/node_modules/@annebrown.ca/vue3-fleet-pub",
+    "@annebrown.ca/vue3-fleet-pub": "^1.0.0",
     "@nuxt/content": "3.5.1",
     "@nuxt/devtools": "^2.4.1",
     "@nuxt/eslint": "1.4.1",
