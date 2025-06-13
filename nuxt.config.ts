@@ -16,7 +16,6 @@ export default defineNuxtConfig({
 
     css: [
         '~/assets/css/ship.css',  
-        '@annebrown.ca/vue3-fleet-pub/dist/style.css' 
     ],
 
    content: {

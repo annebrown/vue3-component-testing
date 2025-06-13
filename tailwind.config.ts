@@ -8,15 +8,11 @@ export default {
     './layouts/**/*.{vue,js,ts}',
     './pages/**/*.{vue,js,ts}',
     './composables/**/*.{vue,js,ts}',
-    './plugins/**/*.{vue,js,ts}',
-    './App.{vue,js,ts}',
     './app.{vue,js,ts}',
-    './Error.{vue,js,ts}',
     './error.{vue,js,ts}',
     './content/**/*.md',
-'./node_modules/@annebrown.ca/vue3-fleet-pub/**/*.mjs', 
-'./node_modules/@annebrown.ca/vue3-fleet-pub/**/*.mjs', 
-    ],
+    './node_modules/@annebrown.ca/vue3-fleet-pub/src/**/*.{vue,js,ts}'
+  ],
 
     plugins: [tailwindTypography()],
 
